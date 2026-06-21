@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f1b849a18cf20741b41cb9a73f4d855
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beatMap: {fileID: 11400000, guid: 46d0bdcacf586cd4baa3d270c36bc1cb, type: 2}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

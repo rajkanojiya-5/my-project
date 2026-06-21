@@ -35,5 +35,13 @@ public class GameInput : MonoBehaviour
         return
             playerInputActions.CarController.Break.ReadValue<float>();
     }
+    public float GetSteerInput()
+    {
+        return
+            playerInputActions.CarController.SteerRight.ReadValue<float>() -
 
-}
+         playerInputActions.CarController.SteerLeft.ReadValue<float>();
+    }
+
+
+    }

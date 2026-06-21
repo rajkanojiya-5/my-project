@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Raj\\musicdrive\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|c:\\users\\raj\\musicdrive\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\beatclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\beatclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|c:\\users\\raj\\musicdrive\\assets\\beatmapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\beatmapdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\combosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\combosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\hitdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\hitdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\gamehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\gamehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\nitrosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\nitrosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\gameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\scripts1\\enemyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\scripts1\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts1\\playerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|C:\\Users\\Raj\\musicdrive\\assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17D6D452-00D1-5CBC-ACE4-55CC7DA266FC}|Assembly-CSharp.csproj|solutionrelative:assets\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +82,141 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\ComboSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\ComboSystem.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\ComboSystem.cs",
+              "RelativeToolTip": "Assets\\ComboSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:51:41.99Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HitDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\HitDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\HitDetector.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\HitDetector.cs",
+              "RelativeToolTip": "Assets\\HitDetector.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:48:00.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeatClock.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\BeatClock.cs",
+              "RelativeDocumentMoniker": "Assets\\BeatClock.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\BeatClock.cs",
+              "RelativeToolTip": "Assets\\BeatClock.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwHUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:01:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeatMapData.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\BeatMapData.cs",
+              "RelativeDocumentMoniker": "Assets\\BeatMapData.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\BeatMapData.cs",
+              "RelativeToolTip": "Assets\\BeatMapData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:02:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\GameInput.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\GameInput.cs",
+              "RelativeToolTip": "Assets\\GameInput.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:46:30.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\GameEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\GameEvent.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\GameEvent.cs",
+              "RelativeToolTip": "Assets\\GameEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:00:35.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mainmenu.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Mainmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Mainmenu.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\Mainmenu.cs",
+              "RelativeToolTip": "Assets\\Mainmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T17:46:39.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T17:00:13.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NitroSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\NitroSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\NitroSystem.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\NitroSystem.cs",
+              "RelativeToolTip": "Assets\\NitroSystem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:06:12.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wFsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:35:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameHUD.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\GameHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\GameHUD.cs",
+              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\GameHUD.cs",
+              "RelativeToolTip": "Assets\\GameHUD.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T11:48:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts1\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts1\\GameManager.cs",
@@ -62,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "EnemyEntity.cs",
               "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts1\\EnemyEntity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts1\\EnemyEntity.cs",
@@ -74,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts1\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts1\\BaseEntity.cs",
@@ -86,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "PlayerEntity.cs",
               "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts1\\PlayerEntity.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts1\\PlayerEntity.cs",
@@ -98,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "HealthComponent.cs",
               "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts1\\HealthComponent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts1\\HealthComponent.cs",
@@ -107,43 +273,6 @@
               "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-30T17:11:41.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
-              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\CameraFollow.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:00:13.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameInput.cs",
-              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\GameInput.cs",
-              "RelativeDocumentMoniker": "Assets\\GameInput.cs",
-              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\GameInput.cs",
-              "RelativeToolTip": "Assets\\GameInput.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:46:30.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts\\CarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CarController.cs",
-              "ToolTip": "C:\\Users\\Raj\\musicdrive\\Assets\\Scripts\\CarController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CarController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAwwFoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:35:17.699Z",
-              "EditorCaption": ""
             }
           ]
         }

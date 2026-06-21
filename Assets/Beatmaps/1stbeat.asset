@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f50bf470c5b22cb488e2ef98d08842f9, type: 3}
+  m_Name: 1stbeat
+  m_EditorClassIdentifier: 
+  song: {fileID: 8300000, guid: a5c7673653fe74842b2da2ef694976d0, type: 3}
+  songName: 
+  bpm: 120
+  beats:
+  - 0
+  - 0.5
+  - 1
+  - 1.5
+  - 2
+  - 2.5
+  - 3
+  - 3.5
+  - 10
+  perfectWindowMs: 150
+  goodWindowMs: 300
+  okWindowMs: 500
+  minimumBeatSpacing: 0.2
+  onsetSensitivity: 1.5
+  fallbackBpm: 120
