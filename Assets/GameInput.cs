@@ -30,7 +30,7 @@ public class GameInput : MonoBehaviour
     {
         return playerInputActions.CarController.Decelerate.ReadValue<float>();
     }
-    public float GetBreakInput()
+    public float GetBrakeInput()
     {
         return
             playerInputActions.CarController.Break.ReadValue<float>();

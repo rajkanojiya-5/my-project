@@ -38,6 +38,11 @@ public class CarController : MonoBehaviour
 
     [Header("References")]
     [SerializeField] private List<Wheel> wheelsList;
+    [Header("Trail Effects")]
+    [SerializeField] private TrailRenderer eff_FL;
+    [SerializeField] private TrailRenderer eff_FR;
+    [SerializeField] private TrailRenderer eff_BL;
+    [SerializeField] private TrailRenderer eff_BR;
 
     // Drag NitroSystem GameObject here in Inspector
     // If left empty, car runs without nitro (safe fallback)
@@ -76,6 +81,7 @@ public class CarController : MonoBehaviour
         Move();
         Steer();
         StabilizeCar();
+        UpdateTrailEffects();
     }
 
     private void LateUpdate()
@@ -101,6 +107,7 @@ public class CarController : MonoBehaviour
     // ── Drive ─────────────────────────────────────────────────
     private void Move()
     {
+        float brakeInput = GameInput.Instance.GetBrakeInput();
         // Speed is calculated from wheel RPM — same as your original
         currentSpeed = 2 * Mathf.PI
                          * wheelsList[0].wheelCollider.radius
@@ -124,6 +131,11 @@ public class CarController : MonoBehaviour
 
         foreach (Wheel wheel in wheelsList)
         {
+            wheel.wheelCollider.brakeTorque = brakeInput * brakeTorque;
+            if(brakeInput> 0)
+            {
+                wheel.wheelCollider.motorTorque = 0;
+            }
 
             if (underSpeedCap || moveInput < 0f)
             {
@@ -164,6 +176,7 @@ public class CarController : MonoBehaviour
             }
         }
     }
+    
 
     private void StabilizeCar()
     {
@@ -193,5 +206,16 @@ public class CarController : MonoBehaviour
             wheel.wheelMesh.transform.position = pos;
             wheel.wheelMesh.transform.rotation = rot;
         }
+    }
+    private void UpdateTrailEffects()
+    {
+        float brake = GameInput.Instance != null ? GameInput.Instance.GetBrakeInput() : 0f;
+
+        bool emit = brake > 0.1f;
+
+        eff_FL.emitting = emit;
+        eff_FR.emitting = emit;
+        eff_BL.emitting = emit;
+        eff_BR.emitting = emit;
     }
 }

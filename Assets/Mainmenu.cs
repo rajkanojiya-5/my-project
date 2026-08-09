@@ -7,7 +7,7 @@ public class Mainmenu : MonoBehaviour
     // Start is called before the first frame update
   public void PlayGame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("RaceScene");
     }
     public void QuitGame()
     {
